@@ -1,0 +1,4 @@
+efgomezd,1234,Administrador
+cdiazf,4321,Cliente
+mapeñag,5678,Cliente
+lesantosr,8765,Cliente

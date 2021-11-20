@@ -1,0 +1,3 @@
+Sold Books:,1000,src/Resources/soldBooks.png
+Purchased Books:,1234,src/Resources/purchaseBooks.png
+Customers:,512,src/Resources/customers.png
